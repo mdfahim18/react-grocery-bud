@@ -153,7 +153,7 @@ p {
     width: 95vw;
   }
 }
-@media screen and (max-width: 250px) {
+@media screen and (min-width: 250px) {
   .form-control {
     flex-direction: column;
   }
