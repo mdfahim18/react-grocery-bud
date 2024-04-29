@@ -153,11 +153,6 @@ p {
     width: 95vw;
   }
 }
-@media screen and (min-width: 250px) {
-  .form-control {
-    flex-direction: column;
-  }
-}
 main {
   min-height: 100vh;
   display: grid;
